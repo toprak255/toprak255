@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toprak255
 - 👀 I’m interested in web/desktop applications and 3d modeling
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning C
 - 📫 How to reach me toprak#4674 on discord
 
 <!---

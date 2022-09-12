@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toprak255
 - 👀 I’m interested in web/desktop applications and 3d modeling
 - 🌱 I’m currently learning C
-- 📫 How to reach me toprak#4674 on discord
+- 📫 How to reach me toprak#1111 on discord(id:421698900131315715)
 
 <!---
 toprak255/toprak255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
